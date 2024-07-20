@@ -2,3 +2,4 @@ Adding Text File First
 Adding second line
 Adding Third line
 Adding Fourth line
+Adding Fourth line
